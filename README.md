@@ -1,8 +1,58 @@
-# React + Vite
+# React Redux Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Todo application built with React and Redux.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+
+This project is a basic Todo application created using React for the UI and Redux for state management. It allows users to add, remove, update, and mark tasks as complete.
+
+## Features
+
+- Add a new Todo
+- Remove a Todo
+- Update a Todo
+- Mark a Todo as complete
+- Toggle Todo edit mode
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Tanmay06102002/RTK_TodoApp
+
+
+Navigate to the project directory:
+bash
+Copy code
+cd react-redux-todo-app
+
+
+Install dependencies:
+bash
+Copy code
+npm install
+
+
+Usage
+Start the development server:
+bash
+Copy code
+npm start
+Open your browser and go to http://localhost:3000.
+
+
+Use the Todo app to manage your tasks.
+
+
+Contributing
+Contributions are welcome! If you find any issues or have suggestions, please open an issue or create a pull request.
